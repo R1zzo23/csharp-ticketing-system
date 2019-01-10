@@ -1,0 +1,12 @@
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\bin\Debug\netcoreapp2.0\TicketingSystem.deps.json
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\bin\Debug\netcoreapp2.0\TicketingSystem.runtimeconfig.json
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\bin\Debug\netcoreapp2.0\TicketingSystem.runtimeconfig.dev.json
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\bin\Debug\netcoreapp2.0\TicketingSystem.dll
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\bin\Debug\netcoreapp2.0\TicketingSystem.pdb
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\obj\Debug\netcoreapp2.0\TicketingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\obj\Debug\netcoreapp2.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\obj\Debug\netcoreapp2.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\obj\Debug\netcoreapp2.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\obj\Debug\netcoreapp2.0\TicketingSystem.dll
+C:\Users\Adam\Dropbox\Coding\DevU\TicketingSystem\TicketingSystem\obj\Debug\netcoreapp2.0\TicketingSystem.pdb
